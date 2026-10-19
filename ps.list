@@ -18,8 +18,8 @@ DOMAIN-SUFFIX,mobimatter.com
 DOMAIN-SUFFIX,bbae.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,static.mmcdn.com
-DOMAIN-SUFFIX,pantyhosecam.net
-DOMAIN-SUFFIX,chaturbate.com
+#DOMAIN-SUFFIX,pantyhosecam.net
+#DOMAIN-SUFFIX,chaturbate.com
 
 DOMAIN-SUFFIX,openclaw.ai
 DOMAIN-SUFFIX,huggingface.co
