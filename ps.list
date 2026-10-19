@@ -17,7 +17,8 @@ DOMAIN-SUFFIX,mobimatter.com
 
 DOMAIN-SUFFIX,bbae.com
 DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,static.mmcdn.com
+#DOMAIN-SUFFIX,static.mmcdn.com
+#DOMAIN-SUFFIX,mmcdn.com
 #DOMAIN-SUFFIX,pantyhosecam.net
 #DOMAIN-SUFFIX,chaturbate.com
 
@@ -44,7 +45,7 @@ DOMAIN-SUFFIX,vps.220612.xyz
 DOMAIN-SUFFIX,220612.xyz
 DOMAIN-SUFFIX,hicairo.com
 
-DOMAIN-SUFFIX,mmcdn.com
+
 
 DOMAIN-SUFFIX,www.yfsp.tv
 DOMAIN-SUFFIX,yfsp.tv
