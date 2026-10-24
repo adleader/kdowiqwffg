@@ -68,7 +68,6 @@ DOMAIN,support.futunn.com
 DOMAIN,download.futunn.com
 
 #腾讯云大段地址，如果有问题再删除吧
-IP-CIDR,43.128.0.0/9,no-resolve
 IP-CIDR,81.71.0.0/16,no-resolve
 IP-CIDR,101.32.0.0/16,no-resolve
 IP-CIDR,101.33.0.0/16,no-resolve
